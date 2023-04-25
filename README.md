@@ -45,8 +45,9 @@ Nope... too expensive.
 **[MIT](LICENSE)** Licensed
 
 ---
-
+<span>
 [creator contact](https://durbonca.com)
+</span>
 <span style="display: flex; align-items: center">
 <a href="https://github.com/durbonca">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" width="30">

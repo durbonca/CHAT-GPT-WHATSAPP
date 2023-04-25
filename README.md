@@ -32,51 +32,13 @@ $ npm i
 
 [describe a simple use of the thingie that you are pitching. keep it short]
 
-```js
-const thingie = createThingie(config);
-```
-
-### Parameters
-
-[describe what parameters your package/function takes]
-
-| Parameter | Description                                |
-| :-------- | :----------------------------------------- |
-| `foo`     | A foo thingie (boolean). Default = `true`. |
-| `bar`     | A bar thingie (string). Default = `bar`.   |
-
-### Return
-
-[describe what is returned]
-
-| Key    | Description                                     |
-| :----- | :---------------------------------------------- |
-| `blah` | A boolean containing the current value of blah. |
-
 ## Example
 
 [Write something here describing the sample code below. The example code SHOULD WORK!]
 
-```jsx
-import React from 'react';
-import { createThingie } from 'chat-gpt-whatsapp-backend';
-
-const Thingie = createThingie();
-
-const MyThingie = () => {
-  // Do some stuff
-
-  return <Thingie>Return some JSX</Thingie>;
-};
-
-export default MyThingie;
-```
-
 ## Live demo
 
-You can view/edit the chat-gpt-whatsapp-backend demo app on CodeSandbox.
-
-[![Edit demo app on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/donavon/use-step-multi-step-form-demo/tree/master/?module=%2Fsrc%2FDarkModeToggle.jsx)
+Nope... too expensive.
 
 ## License
 
